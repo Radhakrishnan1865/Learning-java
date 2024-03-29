@@ -27,7 +27,7 @@ public class Testcase1{
 		
 		
 		
-		// method 01
+		// method 03
 		
 		PageFactory.initElements(driver, PageObjectModel1.class);
 		
@@ -54,7 +54,7 @@ public class Testcase1{
 		
 		
 		
-		// method 03
+		// method 01
 		
 		driver.findElement(By.id("userName")).sendKeys("RADHAKRISHNAN A");
 		driver.findElement(By.id("userEmail")).sendKeys("radhakrishnanof1995@gmail.com");
