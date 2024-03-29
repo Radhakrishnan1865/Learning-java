@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T08:08:06 GMT" name="Default suite" finished-at="2024-03-29T08:08:57 GMT" duration-ms="51604">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T08:08:06 GMT" name="Default test" finished-at="2024-03-29T08:08:57 GMT" duration-ms="51604">
+      <class name="pageObjectModelWthoutannotaions.WithoutindByAnnotations">
+        <test-method signature="test1()[pri:0, instance:pageObjectModelWthoutannotaions.WithoutindByAnnotations@5c5eefef]" started-at="2024-03-29T08:08:06 GMT" name="test1" finished-at="2024-03-29T08:08:57 GMT" duration-ms="51480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- pageObjectModelWthoutannotaions.WithoutindByAnnotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
